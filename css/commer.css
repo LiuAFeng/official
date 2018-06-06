@@ -1,0 +1,29 @@
+.header{
+    position: relative;
+  /* background: red */
+}
+.nav{
+    width: 550px;
+    height: 52px;
+    background: pink;
+    border-radius: 26px;
+    position: absolute;
+    top:60px;
+    right: 160px;
+}
+.nav li{
+    float: left;
+    width: 16%;
+    text-align: center;
+    line-height: 52px;
+    font-size: 14px;
+    cursor: pointer;
+    position: relative;
+    /* color:#ff9801 */
+}
+.nav li p{
+    font-size: 40px;
+    position: absolute;
+    top: 15px;
+    left:37px;
+}
